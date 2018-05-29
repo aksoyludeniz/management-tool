@@ -1,2 +1,2 @@
 # management-tool
-mange and budget personal items 
+manage and budget personal items 
