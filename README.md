@@ -1,3 +1,3 @@
 # management-tool
-manage and budget personal items 
+manage and budget personal items
 hello world
